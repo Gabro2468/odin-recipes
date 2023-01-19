@@ -1,0 +1,27 @@
+body {
+    background-color:azure;
+}
+
+#title {
+    font-family:fantasy;
+    color:goldenrod;
+    position: relative;
+    text-align: center;
+}
+
+.list {
+    color: black;
+    text-align: left;
+}
+
+#op1 {
+    width: 30%;
+    
+}
+
+#op2 {
+    width: 30%;
+    text-align: center;
+}
+
+
